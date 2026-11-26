@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#e7f7ec"/><stop offset="1" stop-color="#bce6ce"/></linearGradient>
+    <linearGradient id="cup" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#fff" stop-opacity=".48"/></linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="34" fill="url(#bg)"/>
+  <circle cx="109" cy="153" r="50" fill="#f4c951"/><circle cx="91" cy="138" r="9" fill="#fff5c3" opacity=".8"/>
+  <path d="M178 304h244l-37 196c-3 15-15 25-30 25h-110c-15 0-27-10-30-25z" fill="url(#cup)" stroke="#fff" stroke-width="8"/>
+  <ellipse cx="300" cy="306" rx="123" ry="33" fill="#fff"/>
+  <path d="M201 303q-6-86 48-86 49 0 44 87m13-5q-5-111 53-111 57 0 54 113" fill="#ffd7df"/>
+  <path d="M219 292q2-63 35-63 32 0 30 63m48-6q1-73 37-73 37 0 37 76" fill="#f4a1b4"/>
+  <path d="M253 228c-10-29-43-35-55-12-11 20 7 44 42 57 17-11 27-29 13-45m93-9c3-30 34-44 51-25 16 17 4 44-28 64-20-7-33-23-23-39" fill="#df5577" stroke="#b84261" stroke-width="4"/>
+  <path d="M284 213c5-24 28-43 50-47" fill="none" stroke="#5e9f64" stroke-linecap="round" stroke-width="10"/>
+  <path d="M219 368h162m-154 37h146m-139 37h132m-125 37h117" stroke="#d7efe0" stroke-width="8" opacity=".9"/>
+  <text x="300" y="574" fill="#4a2c2a" font-family="Arial,sans-serif" font-size="21" font-weight="700" text-anchor="middle">CORES E SABORES DA FRUTA</text>
+</svg>

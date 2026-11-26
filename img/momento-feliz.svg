@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f4eaff"/><stop offset="1" stop-color="#dfd0fa"/></linearGradient>
+    <linearGradient id="cone" x2="0" y2="1"><stop stop-color="#e7b77d"/><stop offset="1" stop-color="#bd8050"/></linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="34" fill="url(#bg)"/>
+  <path d="M135 306h155l-70 195c-4 10-15 10-19 0z" fill="url(#cone)"/>
+  <path d="m147 328 118 68m-93-68 100 58m-76-58 77 44m-27-44-53 144m94-137-62 160" fill="none" stroke="#a56c47" stroke-width="7" opacity=".45"/>
+  <circle cx="180" cy="291" r="70" fill="#f18aaa"/><circle cx="246" cy="279" r="70" fill="#f7dc8e"/>
+  <path d="M333 306h155l-70 195c-4 10-15 10-19 0z" fill="url(#cone)"/>
+  <path d="m345 328 118 68m-93-68 100 58m-76-58 77 44m-27-44-53 144m94-137-62 160" fill="none" stroke="#a56c47" stroke-width="7" opacity=".45"/>
+  <circle cx="380" cy="291" r="70" fill="#8bd6b8"/><circle cx="446" cy="279" r="70" fill="#ed7197"/>
+  <path d="M296 141c0 0 13 25 34 28-21 4-34 28-34 28s-12-24-33-28c21-3 33-28 33-28Z" fill="#e0457b"/>
+  <circle cx="111" cy="176" r="12" fill="#fff" opacity=".9"/><circle cx="494" cy="163" r="10" fill="#fff" opacity=".9"/>
+  <text x="300" y="574" fill="#4a2c2a" font-family="Arial,sans-serif" font-size="21" font-weight="700" text-anchor="middle">ALEGRIA EM DOSE DUPLA</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#ffe2eb"/><stop offset="1" stop-color="#f8bfd0"/></linearGradient>
+    <linearGradient id="cone" x2="0" y2="1"><stop stop-color="#eabd88"/><stop offset="1" stop-color="#bc8052"/></linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="34" fill="url(#bg)"/>
+  <circle cx="92" cy="106" r="15" fill="#fff7ee" opacity=".8"/><path d="m477 109 10 23 25 3-19 17 5 25-21-13-22 13 6-25-20-17 26-3z" fill="#fff7ee" opacity=".85"/>
+  <path d="M205 315h190l-88 215c-4 10-18 10-22 0z" fill="url(#cone)"/>
+  <path d="m213 337 158 90m-119-91 132 75m-109-74 104 59m-68-61-65 157m126-149-75 181m36-177-51 123" fill="none" stroke="#a56c47" stroke-width="8" opacity=".48"/>
+  <circle cx="245" cy="302" r="82" fill="#ed6b96"/><circle cx="350" cy="302" r="82" fill="#f3d37e"/><circle cx="300" cy="226" r="82" fill="#a5dbc6"/>
+  <circle cx="219" cy="276" r="10" fill="#b73361" opacity=".7"/><circle cx="267" cy="320" r="8" fill="#b73361" opacity=".55"/>
+  <circle cx="331" cy="275" r="10" fill="#d39a45" opacity=".75"/><circle cx="372" cy="318" r="7" fill="#d39a45" opacity=".65"/>
+  <path d="M273 196q12-17 25 0" fill="none" stroke="#f0fff8" stroke-linecap="round" stroke-width="10" opacity=".8"/>
+  <text x="300" y="574" fill="#4a2c2a" font-family="Arial,sans-serif" font-size="21" font-weight="700" text-anchor="middle">UMA PAUSA BEM DOCINHA</text>
+</svg>

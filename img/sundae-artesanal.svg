@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff0d6"/><stop offset="1" stop-color="#f8dba9"/></linearGradient>
+    <linearGradient id="glass" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity=".35"/></linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="34" fill="url(#bg)"/>
+  <circle cx="99" cy="129" r="13" fill="#fff" opacity=".75"/><circle cx="482" cy="190" r="21" fill="#fff" opacity=".55"/>
+  <path d="M196 314h208l-31 185q-3 18-21 18h-104q-18 0-21-18z" fill="url(#glass)" stroke="#fff" stroke-width="8"/>
+  <ellipse cx="300" cy="315" rx="104" ry="25" fill="#fff"/>
+  <circle cx="252" cy="278" r="57" fill="#f1d478"/><circle cx="347" cy="275" r="59" fill="#eaa1aa"/><circle cx="300" cy="226" r="57" fill="#f8ead0"/>
+  <path d="M295 197q20-35 45-16m-81 85q25-20 47-4m36 12q21-19 36-4" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="12" opacity=".8"/>
+  <path d="M268 235c13 24 37 27 48 53m37-33c-12 15-22 37-22 51" fill="none" stroke="#9e553b" stroke-linecap="round" stroke-width="9"/>
+  <path d="M231 367h137m-131 38h125m-119 38h113" stroke="#f4d8c6" stroke-width="8"/>
+  <path d="m163 178 8 18 20 2-15 13 4 20-17-10-17 10 5-20-16-13 20-2z" fill="#e0457b" opacity=".75"/>
+  <text x="300" y="574" fill="#4a2c2a" font-family="Arial,sans-serif" font-size="21" font-weight="700" text-anchor="middle">UM CLÁSSICO PARA COMPARTILHAR</text>
+</svg>
